@@ -1,2 +1,2 @@
 # JupyterWorkflow
-Data Analysis
+Python personal projects
